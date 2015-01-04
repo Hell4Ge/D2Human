@@ -1,0 +1,3 @@
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\D2Human\D2Human\bin\x86\Release\D2Human.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\D2Human\D2Human\obj\x86\Release\D2Human.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\D2Human\D2Human\obj\x86\Release\D2Human.csprojResolveAssemblyReference.cache

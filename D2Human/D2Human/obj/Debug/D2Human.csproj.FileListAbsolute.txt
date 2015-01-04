@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\D2Human\D2Human\bin\Debug\D2Human.dll
+c:\users\dell\documents\visual studio 2015\Projects\D2Human\D2Human\bin\Debug\D2Human.pdb
+c:\users\dell\documents\visual studio 2015\Projects\D2Human\D2Human\obj\Debug\D2Human.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\D2Human\D2Human\obj\Debug\D2Human.dll
+c:\users\dell\documents\visual studio 2015\Projects\D2Human\D2Human\obj\Debug\D2Human.pdb
